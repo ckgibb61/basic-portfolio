@@ -1,0 +1,149 @@
+body {
+    /* background-color: #aaaaaa; */
+    background: url("../images/concrete_seamless.png");
+}
+* {
+    box-sizing: border-box;
+  }
+/* body {
+    background-image: url("assets/images/rmp.png");
+    /* background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed; */ 
+
+.all {
+    background-color: whitesmoke;
+    border-bottom: 3px solid #b5aaaafc;
+    border-top: 3px solid #b5aaaafc;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
+#bio {
+    width: 60%;
+    float: right;
+    margin-right: 270px;
+    margin-top: 60px;
+}
+.carol {
+    float: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(33, 54, 146);
+}
+.rmp {
+    float: left;
+    width: 340px;
+    height: auto;
+    margin-top: 10px;
+    margin-right: 8px;
+    padding-bottom: 8px;
+}
+#spider {
+    padding-top: 24px;
+    padding-bottom: 24px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+#about {
+    color: rgb(27, 63, 161);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: whitesmoke;
+    width: 70%;
+    margin-top: 42px;
+}
+.odie {
+    float: right;
+    width: 200px;
+    height: auto;
+    margin-top: -22px;
+}
+.ridge {
+   float: left;
+    width: 340px;
+    height: auto;
+    margin-top: 10px;
+    margin-right: 8px;
+    padding-bottom: 8px;
+}
+.antero {
+    float: left;
+    width: 340px;
+    height: auto;
+    margin-top: 10px;
+    margin-right: 8px;
+    padding-bottom: 8px;
+}
+.connect {
+    text-align: center;
+    margin-top: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: whitesmoke;
+    width: 30%;
+    float: right;
+    margin-right: 34%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 40px;
+}
+.git {
+    width: 50px;
+    height: auto;
+    margin-top: 10px;
+}
+.linked {
+    width: 50px;
+    height: auto;
+    margin-top: 10px;
+}
+.stack {
+    width: 50px;
+    height: auto;
+    margin-top: 10px;
+}
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 24pt;
+    font-weight: 400;
+    padding-bottom: 6px;
+}
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18pt;
+    font-weight: 400;
+    padding-bottom: 3px;
+}
+#port {
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    margin-top: 40px;
+}
+.photos {
+    text-align: center;
+    background-color: #eae2c2;
+    width: 358px;
+    margin-top: 2px;
+    margin-left: -9px;
+    padding-bottom: 18px;
+    border: 2px solid #ded9b1;
+}
+p {
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-size: 14pt;
+}
+#jumbo {
+    float: right;
+    width: 60%;
+    margin-right: 254px;
+    margin-top: 60px;
+}
+.navbar-brand {
+    background-color: whitesmoke;
+    font-size: 10pt;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: rgb(33, 54, 146);
+}
